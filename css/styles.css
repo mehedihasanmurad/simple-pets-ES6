@@ -1,0 +1,14 @@
+
+.background {
+    background-color: rgb(14 122 129);
+    color: white;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+}
+.background:hover {
+    background-color: white;
+    color: black;
+}
